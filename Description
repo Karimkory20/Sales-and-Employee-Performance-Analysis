@@ -1,4 +1,5 @@
-Technologies Used: Python (Pandas), SQL
+#Technologies Used:
+Python (Pandas), SQL
 
 Project Overview
 This project focused on cleaning, analyzing, and extracting insights from sales and employee performance data using Python and SQL. The goal was to ensure data consistency, optimize reporting, and uncover key business insights.
